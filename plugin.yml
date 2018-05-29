@@ -1,6 +1,6 @@
 name: MuaItem
 version: 3.0.0-ALPHA12
-main: _skull_\Main
+main: minuha\Main
 author: ThinkerS
 api: 1.4
 commands:
